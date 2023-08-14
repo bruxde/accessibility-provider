@@ -1,6 +1,6 @@
 name: accessibility_provider
-description: A new Flutter package project.
-version: 0.0.1
+description: Accessibility features for flutter apps.
+version: 0.0.2
 homepage: "https://github.com/bruxde/accessibility-provider.git"
 
 environment:
